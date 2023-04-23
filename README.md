@@ -1,2 +1,3 @@
-# kahoot_clone
+# Haloo
+
 A very simple kahoot clone
